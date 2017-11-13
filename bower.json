@@ -1,0 +1,22 @@
+{
+    "name": "pjaraherrera.github.io",
+    "version": "0.0.0",
+    "homepage": "https://github.com/pjaraherrera/pjaraherrera.github.io",
+    "authors": [
+        "Brandon Amos <patricio.jarah@usach.cl>"
+    ],
+    "license": "Apache",
+    "ignore": [
+        "**/.*",
+        "bower_components"
+    ],
+    "dependencies": {
+        "anchor-js": "~3.2.1",
+        "bootstrap": "~3.3.6",
+        "academicons": "~1.6.0",
+        "font-awesome": "~4.3.0",
+        "jquery": "~2.2.2",
+        "jquery.toc": "~0.3.5",
+        "pygments": "~2.1.1"
+    }
+}
