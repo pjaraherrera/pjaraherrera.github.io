@@ -1,5 +1,6 @@
-TODO
-
+I am a Computer Science Engineering, I studied at the [University of Santiago](Computer Science Engineering). 
+I worked with Fernando Rannou in a framework to simulate object in parallel
+using C++11.
 
 ## <i class="fa fa-chevron-right"></i> Education
 
