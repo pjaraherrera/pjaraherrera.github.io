@@ -46,8 +46,14 @@ using C++11.
 <ul>
 <li markdown="1">
 Gathered requirements, planned and developed responsive websites using HTML, CSS, JavaScript and WordPress.
+  <ul>
+  <li markdown="1">
+  <a href="http://turismoaltura.cl/">Turismo Altura</a> and <a href="http://armeconsultores.cl/">ARMe consultores</a> - Static web site build with gulp to automate the workflow and with the template engine Pug.
+  </li>
+</ul>
 </li>
 </ul>
+
 </td>
 </tr>
 </table>
