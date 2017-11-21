@@ -8,7 +8,7 @@ title: Patricio Jara
 
 ## <i class="fa fa-chevron-right"></i> Fun Side Projects
 + [Kdtree](https://github.com/pjaraherrera/kdtree):
-  A Neareast neighbor search with KD-tree
+  A Neareast neighbor search with KD-tree in parallel using C++
 
 ---
 
